@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Crypto2Fiat</string>
+    <string name="add_pair">Add Pair</string>
+
+    <string-array name="cryptos">
+        <item>BTC</item>
+        <item>ETH</item>
+    </string-array>
+
+    <string-array name="fiats">
+        <item>USD</item>
+        <item>NGN</item>
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>CNY</item>
+        <item>ZAR</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>AUD</item>
+        <item>HKD</item>
+        <item>KRW</item>
+        <item>GHC</item>
+
+    </string-array>
+
+</resources>
